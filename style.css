@@ -12,15 +12,22 @@
   --light-black: #141c3a;
 }
 
-body{
-  font-family:"Nunito",sans-serif;
+body {
+  font-family: "Nunito", sans-serif;
 }
 
-nav{
+nav {
   height: 10vh;
-  width:100%;
-  margin:auto;
-  box-shadow:var(--nav-shadow);
-  display:flex;
+  width: 100%;
+  margin: auto;
+  box-shadow: var(--nav-shadow);
+  display: flex;
+  align-items: center;
+}
+
+.nav-container {
+  width: 90%;
+  margin: auto;
+  display: flex;
   align-items: center;
 }
