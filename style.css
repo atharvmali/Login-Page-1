@@ -46,3 +46,8 @@ nav {
   margin:0 1.2rem;
   color:var(--light-black);
 }
+
+.container{
+  width: 28%;
+  margin: 100px auto;
+}
