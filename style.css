@@ -61,3 +61,13 @@ form{
 form label{
   margin: 5px 0;
 }
+
+form input[type="text"],input[type="password"]{
+  margin: 5px 0;
+  height: 55px;
+  border: 0.5px solid #b8b8b85d;
+  border-radius: 3px;
+  padding: 0 15px;
+  font-size:20px;
+  font-family: "Nunito",sans-serif;
+}
