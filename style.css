@@ -78,3 +78,16 @@ form a{
   color: var(--main-color);
   font-weight:bold;
 }
+
+form input[type="submit"]{
+  height:50px;
+  background: var(--main-color);
+  font-size:20px;
+  font-family:"Nunito",sans-serif;
+  border: none;
+  border-radius: 2px;
+  color:white;
+  box-shadow: var(--box-shadow);
+  cursor: pointer;
+  transition: 0.1s ease;
+}
