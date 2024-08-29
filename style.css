@@ -113,3 +113,8 @@ form input[type="submit"]:hover{
   border-radius: 3px;
   transition: 0.3s ease;
 }
+
+.footer .images img:hover{
+  box-shadow: var(--box-shadow);
+  cursor: pointer;
+}
