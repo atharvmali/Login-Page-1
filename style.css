@@ -118,3 +118,9 @@ form input[type="submit"]:hover{
   box-shadow: var(--box-shadow);
   cursor: pointer;
 }
+
+.footer a{
+  float: right;
+  color: var(--main-color);
+  margin:10px 0;
+}
